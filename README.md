@@ -1,17 +1,13 @@
-# js-kata-starter
+# String calculator
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Installation
+Write a function that makes arithmetical computations (+, -, \*, /), taking a string as input. E.g.
 
 ```text
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
-npm install
+2 * (1 + 3 * (3 - 2)) + 5 * (-1)
 ```
 
-## Development
+should output
 
 ```text
-npm test
+3
 ```
