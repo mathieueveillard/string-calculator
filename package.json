@@ -37,5 +37,8 @@
   "bugs": {
     "url": "https://github.com/mathieueveillard/js-kata-starter/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme"
+  "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme",
+  "dependencies": {
+    "xstate": "^4.15.2"
+  }
 }
